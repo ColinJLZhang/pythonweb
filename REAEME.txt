@@ -1,2 +1,0 @@
-It's a web surport by python and adviced by Liao Xuefeng.
-mrobotor@2018/6/9
